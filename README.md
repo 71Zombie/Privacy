@@ -84,3 +84,23 @@
 ⇾ [RethinkDNS](https://rethinkdns.com/)
 
 ⇾ [NetGuard](https://netguard.me/)
+
+## **𝔼𝕞𝕒𝕚𝕝**
+
+### Providers
+
+⇾ [ProtonMail](https://protonmail.com)
+
+⇾ [Ctemplar](https://ctemplar.com)
+
+⇾ [Tutanota](https://tutanota.com/)
+
+### Aliases
+
+⇾ [SimpleLogin](https://simplelogin.io/)
+
+⇾ [AnonAddy](https://anonaddy.com/)
+
+⇾ [FireFox Relay](https://relay.firefox.com/)
+
+⇾ [DuckRelay](https://duckduckgo.com/email/choose-address)
