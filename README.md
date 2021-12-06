@@ -4,103 +4,107 @@
 
 
 
-## **𝔹𝕣𝕠𝕨𝕤𝕖𝕣𝕤**
+## Browsers
 
 ▶  [**FireFox**](https://www.mozilla.org)
 
-⇾ Do not use default settings!
+🔹 Do not use default settings!
 
-⇾ Must Harden the ``about:config`` settings.
+🔹 Must Harden the ``about:config`` settings.
 
-⇾  [Hardening Guide](https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/)
+🔹  [Hardening Guide](https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/)
 
-⇾ [Hardened User Profile](https://github.com/arkenfox/user.js)
+🔹 [Hardened User Profile](https://github.com/arkenfox/user.js)
 
 
-### __FireFox Forks__
+### Firefox Forks
 
-⇾ [LibreWolf](https://librewolf.net/)
+🔹 [LibreWolf](https://librewolf.net/)
 
-⇾ [WaterFox](https://www.waterfox.net/)
+🔹 [WaterFox](https://www.waterfox.net/)
    
-⇾ [LibreFox](https://github.com/intika/Librefox/)
+🔹 [LibreFox](https://github.com/intika/Librefox/)
 
-### __FireFox Addons__
+### Firefox Addons
 
 #### Note: Choose based on your Thread Model.
 
-⇾ [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+🔹 [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
-⇾ [HTTPSEverywhere](https://www.eff.org/deeplinks/2021/09/https-actually-everywhere) 
+🔹 [HTTPSEverywhere](https://www.eff.org/deeplinks/2021/09/https-actually-everywhere) 
 
-⇾ [NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript)
+🔹 [NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript)
 
-⇾ [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleye)
+🔹 [LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleye)
 
-⇾ [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete)
+🔹 [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete)
 
-⇾ [CleanURLs](https://gitlab.com/KevinRoebert/ClearUrls/-/blob/master/README.md)
+🔹 [CleanURLs](https://gitlab.com/KevinRoebert/ClearUrls/-/blob/master/README.md)
 
-⇾ [Port Authority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/)
+🔹 [Port Authority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/)
 
-
-## **𝔼𝕩𝕡𝕖𝕣𝕚𝕞𝕖𝕟𝕥𝕒𝕝**
-#### Things listed here are to be used with caution!
-
-⇾ [ZeroNet](https://zeronet.io/)
-
-⇾ [LedgerMail](https://ledgermail.io/)
-
-⇾ [SPN](https://safing.io/spn/)
-
-⇾ [Session](https://getsession.org/)
-
-⇾ [RemoteHQ](https://www.remotehq.com/)
-
-⇾ [LokiNetwork](https://loki.network)
-
-⇾ [scrt](https://scrt.link/)
-
-⇾ [Redact](https://redact.dev/) *Not open-source*
+🔹 [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
 
 
-## **𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝔽𝕚𝕣𝕖𝕨𝕒𝕝𝕝𝕤**
-
-### Windows
-
-⇾ [NetLimiter](https://www.netlimiter.com/)
-
-### Linux
-
-⇾ [OpenSnitch](https://github.com/evilsocket/opensnitch)
-
-⇾ [hBlock](https://github.com/hectorm/hblock)
-
-### Multi 
-⇾ [Portmaster](https://github.com/Safing/portmaster)
-
-### Mobile
-
-⇾ [RethinkDNS](https://rethinkdns.com/)
-
-⇾ [NetGuard](https://netguard.me/)
-
-## **𝔼𝕞𝕒𝕚𝕝**
+## Email
 
 ### Providers
 
-⇾ [ProtonMail](https://protonmail.com)
+🔹 [ProtonMail](https://protonmail.com)
 
-⇾ [Ctemplar](https://ctemplar.com)
+🔹 [Ctemplar](https://ctemplar.com)
 
-⇾ [Tutanota](https://tutanota.com/)
+🔹 [Tutanota](https://tutanota.com/)
 
 ### Aliases
 
-⇾ [SimpleLogin](https://simplelogin.io/)
+🔹 [SimpleLogin](https://simplelogin.io/)
 
-⇾ [AnonAddy](https://anonaddy.com/)
+🔹 [AnonAddy](https://anonaddy.com/)
 
-⇾ [FireFox Relay](https://relay.firefox.com/)
+🔹 [FireFox Relay](https://relay.firefox.com/)
 
-⇾ [DuckRelay](https://duckduckgo.com/email/choose-address)
+🔹 [DuckRelay](https://duckduckgo.com/email/choose-address)
+
+
+## Software Firewalls
+
+### Windows
+
+🔹 [NetLimiter](https://www.netlimiter.com/)
+
+### Linux
+
+🔹 [OpenSnitch](https://github.com/evilsocket/opensnitch)
+
+🔹 [hBlock](https://github.com/hectorm/hblock)
+
+### Multi 
+🔹 [Portmaster](https://github.com/Safing/portmaster)
+
+### Mobile
+
+🔹 [RethinkDNS](https://rethinkdns.com/)
+
+🔹 [NetGuard](https://netguard.me/)
+
+
+## Experimental
+#### Things listed here are to be used with caution!
+
+🔹 [ZeroNet](https://zeronet.io/)
+
+🔹 [LedgerMail](https://ledgermail.io/)
+
+🔹 [SPN](https://safing.io/spn/)
+
+🔹 [Session](https://getsession.org/)
+
+🔹 [RemoteHQ](https://www.remotehq.com/)
+
+🔹 [LokiNetwork](https://loki.network)
+
+🔹 [scrt](https://scrt.link/)
+
+🔹 [Redact](https://redact.dev/) *Not open-source*
+
