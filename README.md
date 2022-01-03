@@ -27,7 +27,7 @@
 
 ### Firefox Addons
 
-#### Note: Choose based on your Thread Model.
+#### Note: Choose based on your Threat Model.
 
 🔹 [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
