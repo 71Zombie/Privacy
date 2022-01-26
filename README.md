@@ -45,6 +45,8 @@
 
 🔹 [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
 
+🔹 [Don't Touch My Tabs](https://addons.mozilla.org/en-US/firefox/addon/dont-touch-my-tabs)
+
 
 ## Email
 
@@ -88,6 +90,39 @@
 
 🔹 [NetGuard](https://netguard.me/)
 
+## Messengers
+
+### Real Time Messaging
+
+🔹 [Signal](https://signal.org)
+
+🔹 [Element](https://element.io)
+
+🔹 [Session](https://getsession.org)
+
+🔹 [Status](https://status.im)
+
+
+## Passwords
+
+### Password Managers
+
+🔹[Bitwarden](https://bitwarden.com)
+
+🔹[KeePassXC](https://github.com/keepassxreboot/keepassxc)
+
+
+## Search
+
+### Search Engines
+
+🔹 [DuckDuckGo](https://duckduckgo.com)
+
+🔹 [Qwant](https://qwant.com)
+
+🔹 [BraveSearch](https://search.brave.com/)
+
+
 
 ## Experimental
 #### Things listed here are to be used with caution!
@@ -97,8 +132,6 @@
 🔹 [LedgerMail](https://ledgermail.io/)
 
 🔹 [SPN](https://safing.io/spn/)
-
-🔹 [Session](https://getsession.org/)
 
 🔹 [RemoteHQ](https://www.remotehq.com/)
 
