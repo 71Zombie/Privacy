@@ -5,13 +5,23 @@
 
 ## Contents
 
+- [2FA](#2fa)
 - [Browsers](#browsers)
+- [Disk & File](#disk--file)
 - [Email](#email)
-- [Software Firewall](#software-firewalls)
+- [Experimental](#experimental)
 - [Messengers](#messengers)
 - [Passwords](#passwords)
+- [Operating System](#operating-system)
 - [Search](#search)
-- [Experimental](#experimental)
+- [Software Firewall](#software-firewalls)
+
+
+## 2FA
+
+- [Aegis](https://getaegis.app/) 
+
+- [andOTP](https://github.com/andOTP/andOTP)
 
 
 ## Browsers
@@ -58,6 +68,14 @@
 - [Don't Touch My Tabs](https://addons.mozilla.org/en-US/firefox/addon/dont-touch-my-tabs)
 
 
+## Disk & File
+
+- [BleachBit](https://www.bleachbit.org/)
+
+- [ExifCleaner](https://exifcleaner.com/)
+
+- [VeraCrypt](https://veracrypt.fr/)
+
 ## Email
 
 ### Providers
@@ -77,6 +95,73 @@
 - [FireFox Relay](https://relay.firefox.com/)
 
 - [DuckRelay](https://duckduckgo.com/email/choose-address)
+
+## Experimental
+#### Things listed here are to be used with caution!
+
+- [ZeroNet](https://zeronet.io/)
+
+- [LedgerMail](https://ledgermail.io/)
+
+- [SPN](https://safing.io/spn/)
+
+- [RemoteHQ](https://www.remotehq.com/)
+
+- [LokiNetwork](https://loki.network)
+
+- [scrt](https://scrt.link/)
+
+- [Redact](https://redact.dev/) *Not open-source*
+
+
+## Messengers
+
+### Real Time Messaging
+
+- [Signal](https://signal.org)
+
+- [Element](https://element.io)
+
+- [Session](https://getsession.org)
+
+- [Status](https://status.im)
+
+## Passwords
+
+### Password Managers
+
+#### Cloud
+
+- [Bitwarden](https://bitwarden.com)
+
+#### Local
+
+- [KeePassXC](https://github.com/keepassxreboot/keepassxc)
+
+
+## Operating System
+
+- [Whonix](https://www.whonix.org/)
+
+- [Tails](https://tails.boum.org/)
+
+- [QubesOS](https://www.qubes-os.org/)
+
+#### Mobile
+
+- [GrapheneOS](https://grapheneos.org/)
+
+
+## Search
+
+### Search Engines
+
+- [DuckDuckGo](https://duckduckgo.com)
+
+- [Qwant](https://qwant.com)
+
+- [BraveSearch](https://search.brave.com/)
+
 
 
 ## Software Firewalls
@@ -100,78 +185,10 @@
 
 - [NetGuard](https://netguard.me/)
 
-## Messengers
-
-### Real Time Messaging
-
-- [Signal](https://signal.org)
-
-- [Element](https://element.io)
-
-- [Session](https://getsession.org)
-
-- [Status](https://status.im)
 
 
-## Passwords
+## Guides
 
-### Password Managers
+- [Security Checklist](https://github.com/Lissy93/personal-security-checklist)
 
-#### Cloud
-
-- [Bitwarden](https://bitwarden.com)
-
-#### Local
-
-- [KeePassXC](https://github.com/keepassxreboot/keepassxc)
-
-
-## Search
-
-### Search Engines
-
-- [DuckDuckGo](https://duckduckgo.com)
-
-- [Qwant](https://qwant.com)
-
-- [BraveSearch](https://search.brave.com/)
-
-
-
-## Experimental
-#### Things listed here are to be used with caution!
-
-- [ZeroNet](https://zeronet.io/)
-
-- [LedgerMail](https://ledgermail.io/)
-
-- [SPN](https://safing.io/spn/)
-
-- [RemoteHQ](https://www.remotehq.com/)
-
-- [LokiNetwork](https://loki.network)
-
-- [scrt](https://scrt.link/)
-
-- [Redact](https://redact.dev/) *Not open-source*
-
-## Operating System
-
-- [Whonix](https://www.whonix.org/)
-
-- [Tails](https://tails.boum.org/)
-
-- [QubesOS](https://www.qubes-os.org/)
-
-#### Mobile
-
-- [GrapheneOS](https://grapheneos.org/)
-
-
-## Disk & File
-
-- [BleachBit](https://www.bleachbit.org/)
-
-- [ExifCleaner](https://exifcleaner.com/)
-
-- [VeraCrypt](https://veracrypt.fr/)
+- 
