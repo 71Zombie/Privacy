@@ -190,5 +190,3 @@
 ## Guides
 
 - [Security Checklist](https://github.com/Lissy93/personal-security-checklist)
-
-- 
