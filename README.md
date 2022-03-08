@@ -1,6 +1,5 @@
 # Privacy  
-## You are being watched. Do something about it. 
-### *Created for people who know what they are doing.*
+## *Created for people who know what they are doing.*
 
 
 ## Contents
