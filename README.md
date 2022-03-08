@@ -6,9 +6,11 @@
 
 - [2FA](#2fa)
 - [Browsers](#browsers)
+- [Cloud Storage](#cloud-storage)
 - [Disk & File](#disk--file)
 - [Email](#email)
 - [Experimental](#experimental)
+- [File Sharing](#file-sharing)
 - [Messengers](#messengers)
 - [Passwords](#passwords)
 - [Operating System](#operating-system)
@@ -31,7 +33,7 @@
 
 - Must Harden the ``about:config`` settings.
 
--  [Hardening Guide](https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/)
+- [Hardening Guide](https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/)
 
 - [Hardened User Profile](https://github.com/arkenfox/user.js)
 
@@ -65,6 +67,10 @@
 - [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
 
 - [Don't Touch My Tabs](https://addons.mozilla.org/en-US/firefox/addon/dont-touch-my-tabs)
+
+## Cloud Storage
+
+- [NextCloud](https://nextcloud.com/)
 
 
 ## Disk & File
@@ -111,6 +117,17 @@
 - [scrt](https://scrt.link/)
 
 - [Redact](https://redact.dev/) *Not open-source*
+
+
+## File Sharing
+
+- [OnionShare](https://onionshare.org/)
+
+- [AnonFiles](https://anonfiles.com)
+
+- [Mega](https://mega.nz)
+
+- [Syncthing](https://syncthing.net/)
 
 
 ## Messengers
